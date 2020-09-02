@@ -2,10 +2,10 @@
 Multi-purposed financial application that has budget tracking, check splitter, and receipt scanning functionalities. 
 
 Key Functionalities:
-• Designed a check-splitter and budgeting app that would keep track of expenses using Swift 
-• Leveraged custom protocols and delegates to produce a variety of complex screens in the front-end
-• Used core data and Firebase API to structure the back-end database and server
-• Utilized an OCR API to scan information from receipts, using the iPhone camera, for fast logging 
+- Designed a check-splitter and budgeting app that would keep track of expenses using Swift 
+- Leveraged custom protocols and delegates to produce a variety of complex screens in the front-end
+- Used core data and Firebase API to structure the back-end database and server
+- Utilized an OCR API to scan information from receipts, using the iPhone camera, for fast logging 
 
 
 Special Instructions:
