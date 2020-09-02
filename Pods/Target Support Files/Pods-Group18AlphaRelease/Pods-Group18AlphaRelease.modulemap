@@ -1,0 +1,6 @@
+framework module Pods_Group18AlphaRelease {
+  umbrella header "Pods-Group18AlphaRelease-umbrella.h"
+
+  export *
+  module * { export * }
+}
