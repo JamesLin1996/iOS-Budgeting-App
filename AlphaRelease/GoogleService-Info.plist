@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>469604291550-6e4ief0p720cl2408d1vv5c0fq5a8hjj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.469604291550-6e4ief0p720cl2408d1vv5c0fq5a8hjj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAshFCGgAZ0_kHxDRsGlP2zt_4ttHWQms0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>469604291550</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>cs329e-MobileComputing.Group18AlphaRelease</string>
+	<key>PROJECT_ID</key>
+	<string>dutch-masters1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dutch-masters1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:469604291550:ios:27747bbe7a32a1d3</string>
+	<key>DATABASE_URL</key>
+	<string>https://dutch-masters1.firebaseio.com</string>
+</dict>
+</plist>
